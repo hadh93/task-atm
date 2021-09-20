@@ -65,12 +65,12 @@ Registered account/pw information in the hypothetical bank db:
 
 #### Optional: Insert the amount of money you would like to deposit/withdraw in dollar($)s:
 - Only appears when you choose option "Deposit" or "Withdraw"
-- If the balance is not enough to withdraw entered amount, it will throw and error.
+- If the balance is not enough to withdraw entered amount, it will throw an error.
 
 
 ## test.py
 
-Total of 23 test cases were generated for 6 different functionalities written below:
+A total of 23 test cases was generated for six different functionalities written below:
 1. Validation of the card being handled
 2. Password validation
 3. "See Balance" functionality
