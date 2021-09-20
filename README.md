@@ -41,6 +41,7 @@ True 1234-1234-1234-1234
 
 #### 2. Please enter password:
 - Type in password
+- Justification for the current implementation:
 ```
 Description specifies that the bank API "wouldn't give the ATM the PIN number, but it can tell you if the PIN number is correct or not."
 Therefore, user password input is encrypted into SHA256 format and compared with the 'correct' password stored in SHA256 format.
